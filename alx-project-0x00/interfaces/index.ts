@@ -6,4 +6,6 @@ export interface PillProps {
 
 export interface ButtonProps {
   label: string;
+  styles: string
 }
+
